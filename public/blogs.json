@@ -5,8 +5,8 @@
         "title": "The Secret Garden",
         "author": "Jane Doe",
         "author_img": "https://i.pravatar.cc/150?img=1",
-        "posted_date": "2024-03-13",
-        "reading_time": "30 minutes",
+        "posted_date": "March 13, 2024",
+        "reading_time": 3,
         "hashtags": [
             "#fiction",
             "#classic",
@@ -19,8 +19,8 @@
         "title": "The Galactic Adventures of Zork",
         "author": "John Smith",
         "author_img": "https://i.pravatar.cc/150?img=2",
-        "posted_date": "2024-03-12",
-        "reading_time": "45 minutes",
+        "posted_date": "March 12, 2024",
+        "reading_time": 4,
         "hashtags": [
             "#scifi",
             "#adventure",
@@ -33,8 +33,8 @@
         "title": "Culinary Delights: A Chef's Journey",
         "author": "Emily Johnson",
         "author_img": "https://i.pravatar.cc/150?img=3",
-        "posted_date": "2024-03-11",
-        "reading_time": "60 minutes",
+        "posted_date": "March 11, 2024",
+        "reading_time": 6,
         "hashtags": [
             "#cookbook",
             "#foodie",
@@ -47,8 +47,8 @@
         "title": "The Art of Mindfulness",
         "author": "Michael Brown",
         "author_img": "https://i.pravatar.cc/150?img=4",
-        "posted_date": "2024-03-10",
-        "reading_time": "20 minutes",
+        "posted_date": "March 10, 2024",
+        "reading_time": 2,
         "hashtags": [
             "#mindfulness",
             "#selfhelp",
@@ -61,12 +61,82 @@
         "title": "Secrets of the Deep: Underwater Exploration",
         "author": "Sarah Thompson",
         "author_img": "https://i.pravatar.cc/150?img=5",
-        "posted_date": "2024-03-09",
-        "reading_time": "50 minutes",
+        "posted_date": "March 9, 2024",
+        "reading_time": 5,
         "hashtags": [
             "#ocean",
             "#exploration",
             "#marinebiology"
+        ]
+    },
+    {
+        "id": 678901,
+        "cover": "https://picsum.photos/1200/800?random=6",
+        "title": "The Enigma of Existence",
+        "author": "David Lee",
+        "author_img": "https://i.pravatar.cc/150?img=6",
+        "posted_date": "March 8, 2024",
+        "reading_time": 3,
+        "hashtags": [
+            "#philosophy",
+            "#thoughtprovoking",
+            "#life"
+        ]
+    },
+    {
+        "id": 789012,
+        "cover": "https://picsum.photos/1200/800?random=7",
+        "title": "Coding Chronicles: A Programmer's Odyssey",
+        "author": "Chris Adams",
+        "author_img": "https://i.pravatar.cc/150?img=7",
+        "posted_date": "March 7, 2024",
+        "reading_time": 5,
+        "hashtags": [
+            "#programming",
+            "#technology",
+            "#coding"
+        ]
+    },
+    {
+        "id": 890123,
+        "cover": "https://picsum.photos/1200/800?random=8",
+        "title": "The Haunted Mansion",
+        "author": "Rachel Green",
+        "author_img": "https://i.pravatar.cc/150?img=8",
+        "posted_date": "March 6, 2024",
+        "reading_time": 4,
+        "hashtags": [
+            "#horror",
+            "#mystery",
+            "#ghosts"
+        ]
+    },
+    {
+        "id": 901234,
+        "cover": "https://picsum.photos/1200/800?random=9",
+        "title": "Traveler's Tales: Journeys Across the Globe",
+        "author": "Alex Turner",
+        "author_img": "https://i.pravatar.cc/150?img=9",
+        "posted_date": "March 5, 2024",
+        "reading_time": 6,
+        "hashtags": [
+            "#travel",
+            "#adventure",
+            "#explore"
+        ]
+    },
+    {
+        "id": 123456,
+        "cover": "https://picsum.photos/1200/800?random=10",
+        "title": "The Time Machine",
+        "author": "H.G. Wells",
+        "author_img": "https://i.pravatar.cc/150?img=10",
+        "posted_date": "March 4, 2024",
+        "reading_time": 2,
+        "hashtags": [
+            "#sciencefiction",
+            "#timetravel",
+            "#classic"
         ]
     }
 ]
