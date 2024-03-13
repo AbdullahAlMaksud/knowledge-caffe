@@ -1,0 +1,72 @@
+[
+    {
+        "id": 123456,
+        "cover": "https://picsum.photos/1200/800?random=1",
+        "title": "The Secret Garden",
+        "author": "Jane Doe",
+        "author_img": "https://i.pravatar.cc/150?img=1",
+        "posted_date": "2024-03-13",
+        "reading_time": "30 minutes",
+        "hashtags": [
+            "#fiction",
+            "#classic",
+            "#nature"
+        ]
+    },
+    {
+        "id": 789012,
+        "cover": "https://picsum.photos/1200/800?random=2",
+        "title": "The Galactic Adventures of Zork",
+        "author": "John Smith",
+        "author_img": "https://i.pravatar.cc/150?img=2",
+        "posted_date": "2024-03-12",
+        "reading_time": "45 minutes",
+        "hashtags": [
+            "#scifi",
+            "#adventure",
+            "#space"
+        ]
+    },
+    {
+        "id": 345678,
+        "cover": "https://picsum.photos/1200/800?random=3",
+        "title": "Culinary Delights: A Chef's Journey",
+        "author": "Emily Johnson",
+        "author_img": "https://i.pravatar.cc/150?img=3",
+        "posted_date": "2024-03-11",
+        "reading_time": "60 minutes",
+        "hashtags": [
+            "#cookbook",
+            "#foodie",
+            "#recipes"
+        ]
+    },
+    {
+        "id": 901234,
+        "cover": "https://picsum.photos/1200/800?random=4",
+        "title": "The Art of Mindfulness",
+        "author": "Michael Brown",
+        "author_img": "https://i.pravatar.cc/150?img=4",
+        "posted_date": "2024-03-10",
+        "reading_time": "20 minutes",
+        "hashtags": [
+            "#mindfulness",
+            "#selfhelp",
+            "#meditation"
+        ]
+    },
+    {
+        "id": 567890,
+        "cover": "https://picsum.photos/1200/800?random=5",
+        "title": "Secrets of the Deep: Underwater Exploration",
+        "author": "Sarah Thompson",
+        "author_img": "https://i.pravatar.cc/150?img=5",
+        "posted_date": "2024-03-09",
+        "reading_time": "50 minutes",
+        "hashtags": [
+            "#ocean",
+            "#exploration",
+            "#marinebiology"
+        ]
+    }
+]
